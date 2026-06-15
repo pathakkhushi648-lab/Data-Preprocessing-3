@@ -1,8 +1,6 @@
 Holistic Data Preparer
 
-#Customer Credit Risk Intelligence Framework#
-Transforming Imperfect Financial Data into Reliable Decision Intelligence
-Overview
+Customer Credit Risk Intelligence Framework
 
 Financial institutions rely heavily on customer data to make lending and risk management decisions. However, real-world financial datasets are often incomplete, inconsistent, and affected by anomalies that reduce analytical reliability.
 
